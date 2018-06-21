@@ -1,2 +1,3 @@
 # writing-helpers
-Writing helpers for pandoc, latex, ...: makefiles, filters etc.
+
+See me on https://gitlab.com/jcbagneris/writing-helpers
